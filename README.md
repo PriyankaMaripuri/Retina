@@ -5,4 +5,4 @@ Sceasy was used to convert the file format from seurat’s .rds object to annDat
 
 The final .h5ad file can be visualized in the interactive single cell transcriptome data explorer, cellxgene using the command: 
 
-cellxgene launch retina_ids_11_final.h5ad --open
+cellxgene launch retina_cellxgene.h5ad --open
